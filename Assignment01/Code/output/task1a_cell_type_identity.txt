@@ -1,0 +1,5 @@
+T1	E
+T2	I
+T3	P
+T4	M
+T5	Exh

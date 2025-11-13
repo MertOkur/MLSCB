@@ -1,0 +1,6 @@
+A	blood
+B	LN
+C	BM
+D	spleen
+E	liver
+F	lung
